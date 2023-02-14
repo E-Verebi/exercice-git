@@ -3,4 +3,4 @@ jambon
 fromage
 Encore un grand quantité de beurre de l'autre coté
 
-![croque monsieur](/croque.jpg)
+![croque monsieur](/assets/croque.jpg)

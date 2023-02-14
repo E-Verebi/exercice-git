@@ -4,4 +4,4 @@ Cheddar
 Pas d'onion
 Sauce burger
 
-![Burger](\assets\black-burger.jpeg)
+![Burger](/assets/black-burger.jpeg)
