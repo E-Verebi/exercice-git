@@ -6,4 +6,4 @@ Jambon
 
 Cornichons (a fond)
 
-![Jambon Beurre](/jambon.jpeg)
+![Jambon Beurre](/assets/jambon.jpeg)
